@@ -31,7 +31,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAYSOFT.Core.Infrastructure
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAYSOFT.Core.Infrastructures.Services", "src\BAYSOFT.Core.Infrastructures.Services\BAYSOFT.Core.Infrastructures.Services.csproj", "{FB10FD45-CA50-4350-B549-D15432E43E50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAYSOFT.Middleware", "src\BAYSOFT.Middleware\BAYSOFT.Middleware.csproj", "{8E034192-24E8-478B-B390-7AFD6DE07F68}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAYSOFT.Core.Middleware", "src\BAYSOFT.Core.Middleware\BAYSOFT.Core.Middleware.csproj", "{8E034192-24E8-478B-B390-7AFD6DE07F68}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAYSOFT.Presentations.WebAPP", "src\BAYSOFT.Presentations.WebAPP\BAYSOFT.Presentations.WebAPP.csproj", "{F6285472-C0F2-4B1E-9203-CA4AAA9374E7}"
 EndProject
